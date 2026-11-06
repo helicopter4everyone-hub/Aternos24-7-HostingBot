@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "primal-b7id.aternos.me",
-    "port":32641,
+    "ip": "kalalala.aternos.me",
+    "port":24778,
     "version": "1.20.1",
     "try-creative": false
   },
